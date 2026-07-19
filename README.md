@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Currybon30/Currybon30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://socialify.git.ci/Currybon30/Currybon30/image?custom_description=%E2%9C%A8+Welcome+to+my+GitHub+profile+%F0%9F%91%8B&description=1&font=Inter&name=1&owner=1&pattern=Circuit+Board&theme=Dark" alt="Currybon30" width=auto height="300" />
+</p>
