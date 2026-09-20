@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://socialify.git.ci/Currybon30/Currybon30/image?custom_description=%E2%9C%A8+Welcome+to+my+GitHub+profile+%F0%9F%91%8B&description=1&font=Inter&name=1&owner=1&pattern=Circuit+Board&theme=Dark" alt="Currybon30" width=auto height="300" />
+  <img src="https://socialify.git.ci/tnp0911/tnp0911/image?custom_description=%E2%9C%A8+Welcome+to+my+GitHub+profile+%F0%9F%91%8B&description=1&font=Inter&name=1&owner=1&pattern=Circuit+Board&theme=Dark" alt="tnp0911" width=auto height="300" />
 </p>
